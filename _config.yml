@@ -7,7 +7,6 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -16,17 +15,13 @@
 theme: minimal-mistakes-jekyll
 title: Fayacuts
 email:
-description:
-  Sou um videomaker e editor de vídeo que usa tecnologia e inteligência artificial com criatividade e qualidade de broadcast.
-
+description: Sou um videomaker e editor de vídeo que usa tecnologia e inteligência artificial com criatividade e qualidade de broadcast.
 Veja as minhas fotos e vídeos de eventos, esportes, natureza e designs.
-
-Entre em contato para contratar os serviços de edição e capacitação em IA.
+Entre em contato para contratar os serviços de edição e capacitação em IA
 twitter_username: https://twitter.com/fayacuts
-github_username: username
-minimal_mistakes_skin: "air"
+github_username: fayacuts
+minimal_mistakes_skin: "default"
 search: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
